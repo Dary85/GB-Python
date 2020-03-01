@@ -14,4 +14,4 @@ while True:
 
     if result != 0:
         print(f"Result: {result:3.2f}")
-        break
+    break
